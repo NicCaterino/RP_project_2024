@@ -1,6 +1,11 @@
 # Robot Programming Project, Multi Robot ROS Simulator
 
----
+#TODO
+-   Implementing **ROS** Support
+-   Implementing a configuration system by file
+#DONE
+fix compilation and CMAKE
+- 
 
 # How to compile
 
