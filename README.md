@@ -12,7 +12,7 @@
 
 ```code
 ./ros_build_run --c
-'''
+```
 
 or 
 
@@ -27,7 +27,7 @@ start roscore in another terminal than
 
 ```code
 ./ros_build_run --e
-'''
+```
 
 or alternatevely
 
