@@ -2,11 +2,11 @@
 
 # TODO
 -   Implementing **ROS** Support
--   Implementing a configuration system by file
+
 
 # DONE
 -  fix compilation and CMAKE
-  
+-   Implementing a configuration system by file
 
 # How to compile
 
