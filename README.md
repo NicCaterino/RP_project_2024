@@ -1,6 +1,7 @@
 # Robot Programming Project, Multi Robot ROS Simulator
 
 # TODO
+- fix compilation with config.json
 -   Implementing **ROS** Support
 
 
