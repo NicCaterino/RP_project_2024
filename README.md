@@ -10,14 +10,18 @@
 
 # How to compile
 
+inside project folder ... 
+
 ```code
+cd /workspace
+
 ./ros_build_run --c
 ```
 
 or 
 
 ```code
-cd ./rp_ws
+cd ./
 source /opt/ros/noetic/setup.bash
 catkin_make
 ```
